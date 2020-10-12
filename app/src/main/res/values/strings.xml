@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Recipe</string>
+    <string name="recipeName">Recipe Name</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="recipetitle" />
+    <string name="Procedure">Procedure</string>
+    <string name="recipe">recipe</string>
+    <string name="todo">TODO</string>
+    <string name="Ingredients">Ingredients</string>
+    <string name="RecipeTitle">RecipeTitle</string>
+</resources>
